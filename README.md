@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # neihborhoodwatch
 
 A new Flutter project.
@@ -29,4 +29,4 @@ Virtual Neighborhood Watch is a project that lets users stay actively connected 
 | Sinsine Wono         | UGR/6097/15        | 2        |
 |Yared Yimenu       | UGR/3802/15       | 3     |
 | Zikra Abdusemed| UGR/8046/15| 1|
->>>>>>> 443bf4099c522da9e22a40cb8f4621bc4f2098cb
+
